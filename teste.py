@@ -3,5 +3,6 @@
 
 #mais uma linha de codigo
 
-def foo():
+def foo(tx):
+    print(tx)
     pass
