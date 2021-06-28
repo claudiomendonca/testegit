@@ -4,4 +4,4 @@
 #mais uma linha de codigo
 
 def foo():
-    pass
+    return 1 + 1
